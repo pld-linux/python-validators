@@ -1,0 +1,11 @@
+--- validators-0.14.2/docs/conf.py.orig	2014-09-07 15:24:00.000000000 +0200
++++ validators-0.14.2/docs/conf.py	2023-10-19 21:35:35.807242458 +0200
+@@ -35,7 +35,7 @@ extensions = [
+     'sphinx.ext.intersphinx',
+     'sphinx.ext.todo',
+     'sphinx.ext.coverage',
+-    'sphinx.ext.pngmath',
++    'sphinx.ext.imgmath',
+     'sphinx.ext.mathjax',
+     'sphinx.ext.ifconfig',
+     'sphinx.ext.viewcode',
