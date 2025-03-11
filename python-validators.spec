@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Sprawdzanie poprawności danych dla ludzi
 Name:		python-validators
 # keep 0.14.x here for python2 support; 0.14.3 has been yanked
 Version:	0.14.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/validators/
